@@ -2,7 +2,7 @@ package recursive_mutex
 
 import (
 	"fmt"
-	"go-example/utils"
+	"go-concurrent/utils"
 	"sync"
 	"sync/atomic"
 )
